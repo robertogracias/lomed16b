@@ -5,7 +5,4 @@
 	branch = main
 
 
-[submodule "robertogracias/lomed_v16_202212271113"]
-	path = robertogracias/lomed_v16_202212271113
-	url = git@github.com:robertogracias/lomed_v16.git
-	branch = main
+
