@@ -1,7 +1,3 @@
-[submodule "robertogracias/lomed_v16"]
-	path = robertogracias/lomed_v16
-	url = git@github.com:robertogracias/lomed_v16.git
-	branch = main
 
 [submodule "robertogracias/odoosv16"]
 	path = robertogracias/odoosv16
