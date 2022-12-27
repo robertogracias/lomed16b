@@ -3,3 +3,8 @@
 	path = robertogracias/odoosv16
 	url = git@github.com:robertogracias/odoosv16.git
 	branch = main
+
+[submodule "robertogracias/lomed_v16_202212271107"]
+	path = robertogracias/lomed_v16_202212271107
+	url = git@github.com:robertogracias/lomed_v16.git
+	branch = main
