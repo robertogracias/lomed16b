@@ -1,1 +1,6 @@
 
+
+[submodule "robertogracias/odoosv16_20221230_0911"]
+	path = robertogracias/odoosv16_20221230_0911
+	url = git@github.com:robertogracias/odoosv16.git
+	branch = main
